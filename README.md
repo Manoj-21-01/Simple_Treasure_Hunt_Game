@@ -1,1 +1,2 @@
-# Simple_Treasure_Hunt_Game
+# Simple Treasure Hunt Game
+If you like the game please star this :)
